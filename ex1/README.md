@@ -5,6 +5,7 @@ The management at Rocket Elevators aims to enhance the junior full stack develop
 # Instructions
 
 ## Example
+
 Replace the `< ? >` by the appropriate tag name for each description, like in this example:
 
 * `<?>` is a container element in HTML used to group and style other elements on a web page.
