@@ -7,8 +7,8 @@ The management at Rocket Elevators aims to enhance the junior full stack develop
 ## Example
 Replace the `< ? >` by the appropriate tag name for each description, like in this example:
 
-<span style="color:red">`<?>` is a container element in HTML used to group and style other elements on a web page.</span>
-<span style="color:green">`<div>` is a container element in HTML used to group and style other elements on a web page.</span>
+* `<?>` is a container element in HTML used to group and style other elements on a web page.
+* Answer: `<div>` is a container element in HTML used to group and style other elements on a web page.
 
 ## Questions
 
