@@ -1,14 +1,16 @@
 # Context
 
-The management at Rocket Elevators aims to enhance the junior full stack developer's skills by introducing raw HTML tables. Learning the foundational elements such as <table>, <tr>, and <td> will enable the developer to create structured data displays. They'll also explore row/column span and headers to organize complex data representation effectively.
+The management at Rocket Elevators aims to enhance the junior full stack developer's skills by introducing raw HTML tables. Learning the foundational elements such as `<table>`, `<tr>`, and `<td>` will enable the developer to create structured data displays. They'll also explore row/column span and headers to organize complex data representation effectively.
 
 # Instructions
 
 ## Example
-Replace the < ? > by the appropriate tag name for each description, like in this example:
+Replace the `< ? >` by the appropriate tag name for each description, like in this example:
 
 <span style="color:red">`<?>` is a container element in HTML used to group and style other elements on a web page.</span>
 <span style="color:green">`<div>` is a container element in HTML used to group and style other elements on a web page.</span>
+
+## Questions
 
 * `<?>` The main container for the entire table. It holds all the table rows and columns.
 * `<?>` Optional element used to group the table header content. It is typically used to group header rows together.
